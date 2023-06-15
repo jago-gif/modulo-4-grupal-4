@@ -1,0 +1,16 @@
+{
+  "name": "buscar-clima",
+  "version": "1.0.0",
+  "description": "1. https://home.openweathermap.org/users/sign_in 1. Registrase seleccionar la opción API 1. Ir a la opción \"Current Weather Data\" 1. Seleccionar en el menú derecho la opción \"Built-in geocoding\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "sweetalert2": "^11.7.12"
+  }
+}
